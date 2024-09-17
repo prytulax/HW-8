@@ -1,0 +1,24 @@
+.yellow {
+    color: yellow;
+  }
+  #greycol {
+    color: grey;
+  }
+  .text-box :nth-child(4n - 1) {
+    color: green;
+  }
+  .text-box :nth-child(8n - 3) {
+    color: red;
+  }
+  h3:first-child {
+    color: pink;
+  }
+  h2:hover {
+    background-color: red;
+  }
+  li:last-child {
+    background-color: yellow;
+  }
+  li:first-child {
+    color: blue;
+  }
